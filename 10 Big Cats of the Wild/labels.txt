@@ -1,0 +1,10 @@
+0 Tiger
+1 Caracal
+2 Cheetah
+3 Clouded Leopard
+4 Jaguar
+5 Lions
+6 Ocelot
+7 Puma
+8 Snow Leopard
+9 African Leopard
